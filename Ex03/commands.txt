@@ -1,0 +1,3 @@
+docker run -d -it --name ex03 devopsdockeruh/simple-web-service:ubuntu
+docker exec -it ex03 bash
+tail -f ./text.log
