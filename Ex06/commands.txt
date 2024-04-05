@@ -1,0 +1,2 @@
+Run command: docker run -it devopsdockeruh/pull_exercise
+Write the password "basics" that could be found in the image docs
